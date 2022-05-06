@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "nunomaduro/phpinsights": "^2.2",
+        "phpstan/phpstan": "^1.6"
+    },
+    "require": {
+        "mongodb/mongodb": "^1.12"
+    }
+}
